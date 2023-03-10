@@ -1,4 +1,4 @@
-package org.example;
+package ass8.classes;
 
 public class Main {
     public static void main(String[] args) {
